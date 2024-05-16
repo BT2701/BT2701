@@ -2,7 +2,6 @@
 ## 💫About Me :
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hello+Everyone;My+name's+Truong;Welcome+to+my+personal+page.)](https://git.io/typing-svg)
 
----
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truong-duong-3468512b4) 
@@ -21,6 +20,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=0769AD" alt="JQuery logo" title="JQuery" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/XML-282C34?logo=xml&logoColor=0769AD" alt="XML logo" title="xml" height="25" /></span>
+&nbsp;
 <br>
 
 ### Back-end
@@ -37,6 +38,31 @@
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
 <br>
+
+### Others
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032" alt="Git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="postman logo" title="postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=#4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="SQL server logo" title="SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Drawio-282C34?logo=diagramsdotnet&logoColor=#F08705" alt="Drawio logo" title="Drawio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=#00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#5391FE" alt="Mysql logo" title="Shell" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="C logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
+&nbsp;
+
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=bt2701&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
