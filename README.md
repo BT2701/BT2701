@@ -4,7 +4,18 @@
 
 
 # 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truong-duong-3468512b4) 
+
+<div align="left">
+  <a href="https://bt2701.github.io/My-Profile/" target="blank">
+    <img width="50" height="50" src="img/Truong.png" alt="Truong" />
+  </a>
+  <a href="https://www.facebook.com/truong.bt.27" target="blank">
+    <img width="50" height="50" src="img/fb.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/bt2701/" target="blank">
+    <img width="50" height="50" src="img/linkedin.png" />
+  </a>
+</div>
 
 # 💻Tech Stack
 ## Front-end
@@ -72,7 +83,7 @@
 <h2 align="left">📑 My Favorites Quote</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="quotes.svg" width="846" height="150" alt="quotes" />
+  <img src="img/quotes.svg" width="846" height="150" alt="quotes" />
 </a>
 
 ---
