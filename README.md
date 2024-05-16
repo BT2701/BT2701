@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truong-duong-3468512b4) 
 
 # 💻Tech Stack
-<br>
-
 ## Front-end
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -62,6 +60,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
+<br>
 
 
 # 📊GitHub Stats :
