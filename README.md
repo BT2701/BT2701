@@ -44,12 +44,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring boot-282C34?logo=spring boot&logoColor=6DB33F" alt="Spring logo" title="Spring boot" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
 <br>
 
 ## Others
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032" alt="Git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
