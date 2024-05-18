@@ -46,6 +46,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate logo" title="Hibernate" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf logo" title="Thymeleaf" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
 <br>
