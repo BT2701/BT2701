@@ -1,5 +1,8 @@
+<div align = 'center'> 
+<img src='img/cover.png' />
+</div>
 
-# 💫About Me
+# 💫Intro
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hello+Everyone;My+name's+Truong;Welcome+to+my+personal+page.)](https://git.io/typing-svg)
 
 
@@ -17,7 +20,7 @@
   </a>
 </div>
 
-# 💻Tech Stack
+# 💻Skills
 ## Front-end
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -84,7 +87,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bt2701&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
 
 <br>
-<h2 align="left">📑 My Favorites Quote</h2>
+<h2 align="left">📑 My Favorite Quote</h2>
 <br>
 <a href="#" target="_blank">
   <img src="img/quotes.svg" width="846" height="150" alt="quotes" />
