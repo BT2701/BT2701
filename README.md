@@ -53,6 +53,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Servlet -282C34?logo=servlet&logoColor=092E20" alt="Servlet logo" title="Servlet boot" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JSP -282C34?logo=jsp&logoColor=092E20" alt="JSP logo" title="JSP boot" height="25" /></span>
+&nbsp;
 <br>
 
 ## Others
