@@ -57,6 +57,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JSP -282C34?logo=jsp&logoColor=092E20" alt="JSP logo" title="JSP boot" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Gin-282C34?logo=gin&logoColor=008ECF" alt="Gin logo" title="Gin" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL server logo" title="SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
 <br>
 
 ## Others
@@ -65,10 +73,6 @@
 <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="postman logo" title="postman" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=#4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="SQL server logo" title="SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
