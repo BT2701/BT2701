@@ -65,6 +65,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=#003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
+&nbsp;
 <br>
 
 ## Others
