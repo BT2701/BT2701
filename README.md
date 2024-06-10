@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://bt2701.github.io/My-Profile/" target="blank">
-    <img width="50" height="50" src="img/Truong.png" alt="Truong" />
+    <img width="42" height="42" src="img/logonew.png" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/truong.bt.27" target="blank">
     <img width="50" height="50" src="img/fb.png" />
@@ -33,6 +33,10 @@
 <span><img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=0769AD" alt="JQuery logo" title="JQuery" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/XML-282C34?logo=xml&logoColor=0769AD" alt="XML logo" title="xml" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" /></span>
 &nbsp;
 <br>
 

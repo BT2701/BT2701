@@ -1,0 +1,8 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-circle">
+      <circle cx="25" cy="25" r="25"/>
+    </clipPath>
+  </defs>
+  <div><image x="0" y="0" width="50" height="50" xlink:href="logonew.png" clip-path="url(#clip-circle)"/></div>
+</svg>
