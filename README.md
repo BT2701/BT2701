@@ -4,7 +4,9 @@
 
 # 💫Intro
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hello+Everyone;My+name's+Truong;Welcome+to+my+personal+page.)](https://git.io/typing-svg)
-
+##### ✨ I'm learning new programming skills for a fullstack developer position, the skills I'm honing are:
+- Front-end: React.js, Vue.js.
+- Back-end: Spring Framework, Servlet, Laravel.
 
 # 🌐Socials
 
