@@ -36,6 +36,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" /></span>
 &nbsp;
 <br>
@@ -55,11 +57,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf logo" title="Thymeleaf" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Servlet -282C34?logo=servlet&logoColor=092E20" alt="Servlet logo" title="Servlet boot" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JSP -282C34?logo=jsp&logoColor=092E20" alt="JSP logo" title="JSP boot" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JSP -282C34?logo=jsp&logoColor=092E20" alt="JSP logo" title="JSP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gin-282C34?logo=gin&logoColor=008ECF" alt="Gin logo" title="Gin" height="25" /></span>
 &nbsp;
