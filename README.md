@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="https://bt2701.github.io/My-Profile/" target="blank">
-    <img width="50" height="50" src="img/logonew.png" alt="Portfolio" />
+    <img width="43" height="43" src="img/logonew.png" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/truong.bt.27" target="blank">
     <img width="50" height="50" src="img/fb.png" />
