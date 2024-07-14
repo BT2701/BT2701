@@ -1,5 +1,5 @@
 <div align = 'center'> 
-<img src='img/intro.gif' height="250" width='100%'/>
+<img src='img/intro.gif' width='100%'/>
 </div>
 
 # 💫Intro
