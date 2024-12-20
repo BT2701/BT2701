@@ -22,9 +22,9 @@
 # 💻Skills
 <table width:100>
   <tr>
-    <td> Front-end </td>
-    <td> Back-end</td>
-    <td> Others </td>
+    <td style="background-color:#f0f0f0;"> Front-end </td>
+    <td style="background-color:#f0f0f0;"> Back-end</td>
+    <td style="background-color:#f0f0f0;"> Others </td>
   </tr>
   <tr>
     <td>
