@@ -4,9 +4,6 @@
 
 # 💫Intro
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Hello+Everyone;My+name's+Truong;Welcome+to+my+personal+page.)](https://git.io/typing-svg)
-### ✨ I'm learning new technical skills for a fullstack developer position, the skills I'm honing are:
-- Front-end: React.js, Vue.js.
-- Back-end: Spring Framework, Servlet, Laravel.
 
 # 🌐Socials
 
@@ -23,8 +20,15 @@
 </div>
 
 # 💻Skills
-## Front-end
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<table width:100>
+  <tr>
+    <td> Front-end </td>
+    <td> Back-end</td>
+    <td> Others </td>
+  </tr>
+  <tr>
+    <td>
+    <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
@@ -42,10 +46,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" /></span>
 &nbsp;
-<br>
+<span><img src="https://img.shields.io/badge/Pixi.js-282C34?logo=pixijs&logoColor=06B6D4" alt="Pixi.js logo" title="Pixi" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Material UI-282C34?logo=material-ui&logoColor=06B6D4" alt="Material logo" title="Material" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="Type Script" title="Type Script" height="25" /></span>
+&nbsp;
 
-## Back-end
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=0769AD" alt="Java logo" title="Java" height="25" /></span>
+<br>
+    </td>
+    <td>
+    <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=0769AD" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
@@ -63,11 +74,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Django -282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django boot" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Servlet -282C34?logo=servlet&logoColor=092E20" alt="Servlet logo" title="Servlet boot" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JSP -282C34?logo=jsp&logoColor=092E20" alt="JSP logo" title="JSP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Servlet-JSP -282C34?logo=servlet&logoColor=092E20" alt="Servlet logo" title="Servlet" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gin-282C34?logo=gin&logoColor=008ECF" alt="Gin logo" title="Gin" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Echo-282C34?logo=echo&logoColor=512BD4" alt="echo logo" title="echo" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ASP.Net-282C34?logo=.net&logoColor=512BD4" alt=".net logo" title=".net" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
@@ -77,12 +90,24 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=#003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=#003B57" alt="mongodb logo" title="mongodb" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=#003B57" alt="redis logo" title="redis" height="25" /></span>
+&nbsp;
 <br>
-
-## Others
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
+    </td>
+    <td>
+   <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=#181717" alt="gitlab logo" title="gitlab" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=#181717" alt="docker logo" title="docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Maven-282C34?logo=apache maven&logoColor=C71A36" alt="maven logo" title="maven" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gradle-282C34?logo=gradle&logoColor=#02303A" alt="gradle logo" title="gradle" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="postman logo" title="postman" height="25" /></span>
 &nbsp;
@@ -98,7 +123,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<br>
+<br> 
+    </td>
+  </tr>
+</table>
+
+
 
 
 # 📊GitHub Stats :
