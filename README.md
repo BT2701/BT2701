@@ -143,7 +143,7 @@
     </td>
     <td>
       <p align="center" back-ground="blue"> 
-        <img src="img/model.png" alt="dev" width="100%"/>
+        <img src="img/siuu.webp" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
