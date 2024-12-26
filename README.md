@@ -148,14 +148,12 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bt2701&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="BT2701" width="100%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bt2701&theme=tokyonight&hide_border=false" alt="BT2701" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt2701&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="BT2701" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=bt2701&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="BT2701" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bt2701&theme=transparent&hide_border=false" alt="BT2701" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt2701&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=8" alt="BT2701" width="100%"/>
     </td>
-    <td width = "40%">
-      <p align="center" back-ground="blue"> 
-        <img src="img/img.gif" alt="dev" width="100%"/>
-      </p>
+    <td width = "50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bt2701" alt="Harlok's WakaTime stats" width="100%"/>
     </td>
   </tr>
 </table>
