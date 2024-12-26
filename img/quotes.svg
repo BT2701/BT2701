@@ -11,10 +11,10 @@
 					margin: 0;
 					width: 100%;
 					height: 150px;
-          background-color: #20232A;
+          			background-color: #F0F8FF; /* Nền xanh nhạt (Alice Blue) */
 					border-radius: 10px;
-					color: white;
-          line-height: 1.6;
+					color: #333333; /* Màu chữ xám đậm, dễ đọc trên nền sáng */
+					line-height: 1.6;
 				}
         .quotes-eng {
           font-size: 18px;
