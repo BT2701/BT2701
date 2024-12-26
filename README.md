@@ -153,7 +153,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt2701&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=8" alt="BT2701" width="100%"/>
     </td>
     <td width = "50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bt2701" alt="Harlok's WakaTime stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=my-profile&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/> <br>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-frontend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br> 
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-microservice-be&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-frontend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
     </td>
   </tr>
 </table>
