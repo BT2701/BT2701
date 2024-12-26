@@ -152,13 +152,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bt2701&theme=transparent&hide_border=false" alt="BT2701" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt2701&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=8" alt="BT2701" width="100%"/>
     </td>
-    <td width = "50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-frontend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br> 
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-microservice-be&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-frontend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=salesphere&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card"/><br>
-    </td>
+    <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-frontend&title_color=0066FF&icon_color=FFCC00&text_color=333333&bg_color=F0F8FF" alt="Customized Card"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=facebook-microservice-be&title_color=FF5733&icon_color=2ECC71&text_color=333333&bg_color=FFF5E6" alt="Customized Card"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-frontend&title_color=8E44AD&icon_color=3498DB&text_color=333333&bg_color=EAF2F8" alt="Customized Card"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=bus-ticket-booking-backend&title_color=27AE60&icon_color=F1C40F&text_color=333333&bg_color=E8F5E9" alt="Customized Card"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=bt2701&repo=salesphere&title_color=FF6347&icon_color=00CED1&text_color=333333&bg_color=FFF0F5" alt="Customized Card"/><br>
+</td>
+
   </tr>
 </table>
 
